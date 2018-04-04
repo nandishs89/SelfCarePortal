@@ -1,0 +1,4 @@
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_DataLogic\bin\Debug\SelfCarePortal_DataLogic.dll
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_DataLogic\bin\Debug\SelfCarePortal_DataLogic.pdb
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_DataLogic\obj\Debug\SelfCarePortal_DataLogic.dll
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_DataLogic\obj\Debug\SelfCarePortal_DataLogic.pdb

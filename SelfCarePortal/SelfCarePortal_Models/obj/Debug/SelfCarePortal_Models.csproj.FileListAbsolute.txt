@@ -1,0 +1,5 @@
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_Models\bin\Debug\SelfCarePortal_Models.dll
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_Models\bin\Debug\SelfCarePortal_Models.pdb
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_Models\obj\Debug\SelfCarePortal_Models.csprojResolveAssemblyReference.cache
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_Models\obj\Debug\SelfCarePortal_Models.dll
+D:\SelfCarePortal\SelfCarePortal\SelfCarePortal\SelfCarePortal_Models\obj\Debug\SelfCarePortal_Models.pdb
